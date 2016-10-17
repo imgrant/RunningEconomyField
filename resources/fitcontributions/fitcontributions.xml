@@ -1,0 +1,34 @@
+  <resources>
+    <fitContributions>
+      
+      <fitField id="0"
+        displayInChart="true"
+        displayInActivityLaps="false"
+        displayInActivitySummary="false"
+        sortOrder="0"
+        precision="0"
+        chartTitle="@Strings.lEconomyChart"
+        dataLabel="@Strings.lEconomyData"
+        unitLabel="@Strings.lEconomyUnits"
+        fillColor="#FF0000" />
+        
+      <fitField id="1"
+        displayInChart="false"
+        displayInActivityLaps="false"
+        displayInActivitySummary="true"
+        sortOrder="1"
+        precision="0"
+        dataLabel="@Strings.lEconomyAvgData"
+        unitLabel="@Strings.lEconomyUnits" />
+        
+      <fitField id="2"
+        displayInChart="false"
+        displayInActivityLaps="true"
+        displayInActivitySummary="false"
+        sortOrder="2"
+        precision="0"
+        dataLabel="@Strings.lEconomyAvgData"
+        unitLabel="@Strings.lEconomyUnits" />
+        
+    </fitContributions>  
+  </resources>
