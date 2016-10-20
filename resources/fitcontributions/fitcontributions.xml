@@ -10,7 +10,7 @@
         chartTitle="@Strings.lEconomyChart"
         dataLabel="@Strings.lEconomyData"
         unitLabel="@Strings.lEconomyUnits"
-        fillColor="#FF0000" />
+        fillColor="#0fc491" />
         
       <fitField id="1"
         displayInChart="false"
