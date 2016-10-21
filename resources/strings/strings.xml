@@ -1,8 +1,8 @@
 <strings>
     <string id="AppName">Running Economy</string>
-    <string id="AppVersion">1.1.0</string>
+    <string id="AppVersion">1.1.1</string>
     <string id="lEconomyChart">Running Economy</string>
     <string id="lEconomyData">Economy</string>
     <string id="lEconomyAvgData">Avg Economy</string>
-    <string id="lEconomyUnits"></string>
+    <string id="lEconomyUnits"> </string>
 </strings>
